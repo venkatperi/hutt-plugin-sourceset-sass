@@ -1,0 +1,21 @@
+{
+  "name": "hutt-plugin-sourceset-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "hutt": "*"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "dependencies": {},
+  "keywords": [
+    "hutt-plugin"
+  ]
+}
